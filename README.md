@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓Currently, I am pursuing Bachelor's in Information Technology.<br>✨A Passionate 💻 Web Developer and Code Enthusiast 💜 from India.<br>🔭 I’m currently working on Frontend Development<br>🌱 I’m currently learning React<br><br>📫 How to reach me : aayush191102@gmail.com
+🎓Currently, I am pursuing Bachelor's in Information Technology.<br>✨A Passionate 💻 Web Developer and Code Enthusiast 💜 from India.<br>🔭 I’m currently working on MERN Stack<br>🌱 I’m currently learning Node.js<br><br>📫 How to reach me : aayush191102@gmail.com
 
 
 ## 🌐 Socials:
