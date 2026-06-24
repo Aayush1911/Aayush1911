@@ -1,5 +1,6 @@
 # 💫 About Me:
-🎓Currently, I am pursuing Bachelor's in Information Technology.<br>✨A Passionate 💻 Web Developer and Code Enthusiast 💜 from India.<br>🔭 I’m currently working on MERN Stack<br>🌱 I’m currently learning Node.js<br><br>📫 How to reach me : aayush191102@gmail.com
+Software Developer with 1+ year of experience in Angular,MERN, Kendo UI, ASP.NET Web API, VB.NET, and SQL Server. Skilled in developing healthcare credentialing and provider management applications, building REST APIs, optimizing database queries, and delivering responsive user interfaces.
+<br><br>📫 How to reach me : aayush191102@gmail.com
 
 
 ## 🌐 Socials:
