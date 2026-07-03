@@ -1,7 +1,7 @@
 # 💫 About Me:
-Software Developer with 1+ year of experience building healthcare credentialing and provider-management systems using Angular, ASP.NET Web API, VB.NET, and SQL Server.
-At Healthcare Informatics, I consolidated four separate provider-tracking modules — Privileging, Provider Onboarding, Source Verification, and Expirable Data — into a single unified Credentialing module, migrated legacy ASPX screens to Angular, and built reusable Kendo UI components (a custom date-range grid filter and a "Select All" directive for MultiSelect) to close gaps in our team's toolkit.
-Alongside my day-to-day work, I build full-stack projects across the MERN stack and React — an e-commerce app with OTP authentication, a role-based dynamic form builder, and a few smaller tools — because I like understanding the full pipeline, not just my slice of it.
+Software Developer with 1+ year of experience building healthcare credentialing and provider-management systems using Angular, ASP.NET Web API, VB.NET, and SQL Server.<br/>
+At Healthcare Informatics, I consolidated four separate provider-tracking modules — Privileging, Provider Onboarding, Source Verification, and Expirable Data — into a single unified Credentialing module, migrated legacy ASPX screens to Angular, and built reusable Kendo UI components (a custom date-range grid filter and a "Select All" directive for MultiSelect) to close gaps in our team's toolkit.<br/>
+Alongside my day-to-day work, I build full-stack projects across the MERN stack and React — an e-commerce app with OTP authentication, a role-based dynamic form builder, and a few smaller tools — because I like understanding the full pipeline, not just my slice of it.<br/>
 Open to Software Developer, Full Stack Developer, and Angular Developer roles in Vadodara.
 <br><br>📫 How to reach me : aayush191102@gmail.com
 
